@@ -149,6 +149,16 @@
           "url": "https://note.com/nagui_nagui/n/n9bd90752043a?sub_rt=share_pb"
         }
       ]
+    },
+    "practiceDiary": {
+      "title": "ボイトレ日記",
+      "body": "日々の練習を1日ごとにまとめて振り返る画面です。\n各日のカードに、練習・発声時間や問題数・正解率・安定度に加え、実施したメニュー、コメント、体調・症状がまとまります。\n上部の期間で表示範囲を切り替えられます。\n日付をタップするとその日の練習記録一覧へ、右上の「詳細一覧」ですべての練習記録を確認できます。",
+      "notes": [
+        {
+          "label": "[操作] サマリー・分析、ボイトレ日記(note)",
+          "url": "https://note.com/nagui_nagui/n/n2cac57be1acd?sub_rt=share_pb"
+        }
+      ]
     }
   }
 }
